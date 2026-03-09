@@ -3,7 +3,7 @@
 ---
 # iPhone 15 Pro Landing Page Clone
 
-This project is a **static landing page clone** inspired by the official Apple iPhone 15 Pro product page. It showcases basic HTML and CSS skills with a main focus on responsive navigation, hero section, and call-to-action button.
+This project is a **static landing page clone** inspired by the official Apple iPhone 15 Pro product page. It showcases basic HTML and CSS skills with a main focus on responsive navigation, hero section, and call-to-action buttons.
 
 ---
 
